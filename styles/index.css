@@ -1,3 +1,9 @@
+.main {
+    padding: 111px 40px 40px;
+    position: relative;
+    display: flex;
+}
+
 .main-title {
     margin-top: 98px;
     font-weight: 500;

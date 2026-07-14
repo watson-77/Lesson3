@@ -8,5 +8,4 @@
 
 Пробуем HTML + CSS на практике
 
-Верстаем главную страницу сайта
-🔗 https://itlogia.ru/intensive/front
+Верстка всего сайта 🔗 https://itlogia.ru/intensive/front

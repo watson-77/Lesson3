@@ -92,12 +92,6 @@ body {
     text-decoration: none;
 }
 
-.main {
-    padding: 111px 40px 40px;
-    position: relative;
-    display: flex;
-}
-
 .button {
     border: 0;
     outline: none;
