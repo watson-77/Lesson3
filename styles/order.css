@@ -254,7 +254,7 @@ input::placeholder, textarea::placeholder {
     flex-direction: column;
     gap: 6px;
 }
-
+/**/
 .order-fields {
     display: grid;
     grid-template-columns: 1fr 1fr;
